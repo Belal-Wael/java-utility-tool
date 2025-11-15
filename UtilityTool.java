@@ -2,7 +2,7 @@ public class UtilityTool {
 
     public static void main(String[] args) {
         System.out.println("Welcome to My Utility Tool!");
-        System.out.println("1 + 2 = " + addNumbers(1, 2));
+        System.out.println("Sum Result = " + addNumbers(1, 2));
         System.out.println("Current Time: " + getCurrentTime());
         System.out.println("Hostname: " + getHostName());
 
